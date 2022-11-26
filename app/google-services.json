@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227212468568",
+    "project_id": "quizapp-6e76e",
+    "storage_bucket": "quizapp-6e76e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227212468568:android:1c553b3b52ee1cc950452d",
+        "android_client_info": {
+          "package_name": "com.volkan.quizappwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227212468568-l2jro8dveu4rfgp4rcohuptf9rbd822j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtAG8xPcMWJEEBu7pxH1AGOAm_DeNjt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227212468568-l2jro8dveu4rfgp4rcohuptf9rbd822j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
